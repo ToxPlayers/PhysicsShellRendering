@@ -1,6 +1,7 @@
 # PhysicsShellRendering
 Shell Rendering + Engine Physics<br />
 Based on Acerola implementation https://github.com/GarrettGunnell/Shell-Texturing<br />
+Imported to ShaderGraph.
 Added physics using a second object to simulate the forces applied to the original, and calculating the offset from the original object.<br />
 By default it's using spring joint, but can be swapped with any other method.<br />
 
