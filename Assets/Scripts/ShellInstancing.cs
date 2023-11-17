@@ -76,7 +76,7 @@ public class ShellInstancing : ShellBase
         _isSetup = false;
     }
 
-
+    [BurstCompile]
     public struct WriterJob : IJobParallelFor
     {
         public NativeArray<InstanceData> writer;
