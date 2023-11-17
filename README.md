@@ -1,4 +1,4 @@
-# Physics-IndirectInstanced-ShellRendering
+# Physics-InstancedIndirect-ShellRendering
 Shell Rendering, Engine Physics with Indirect Instancing<br />
 Based on Acerola implementation https://github.com/GarrettGunnell/Shell-Texturing<br />
 Imported to ShaderGraph.<br />
