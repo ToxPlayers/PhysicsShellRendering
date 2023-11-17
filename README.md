@@ -1,10 +1,9 @@
-# PhysicsShellRendering
-Shell Rendering + Engine Physics<br />
+# Physics-IndirectInstanced-ShellRendering
+Shell Rendering, Engine Physics with Indirect Instancing<br />
 Based on Acerola implementation https://github.com/GarrettGunnell/Shell-Texturing<br />
 Imported to ShaderGraph.<br />
 Added physics using a second object to simulate the forces applied to the original, and calculating the offset from the original object.<br />
 By default it's using spring joint, but can be swapped with any other method.<br />
+Added indirect Instancing per shell group.
 
-![GravityExample](https://github.com/ToxPlayers/PhysicsShellRendering/assets/67845762/7c917747-29eb-4924-a7a7-b6764f7a3f93) ![DamperExample](https://github.com/ToxPlayers/PhysicsShellRendering/assets/67845762/7b00c597-b655-490a-aab8-0209cd6d6802)
-
-![DamperExample2](https://github.com/ToxPlayers/PhysicsShellRendering/assets/67845762/54c303a7-2c46-4462-92ed-1521554da151)
+<div style="width:100%;height:0px;position:relative;padding-bottom:62.827%;"><iframe src="https://streamable.com/e/mf745v" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
