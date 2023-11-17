@@ -43,7 +43,7 @@ public class ShellInstancing : ShellBase
     {
         _job.writer = _posBuffer.BeginWrite<InstanceData>(0, SHELL_COUNT);
         _job.data.mat = transform.localToWorldMatrix;
-        _job.Schedule(SHELL_COUNT, 32);
+        _job.Schedule(SHELL_COUNT, 32).Complete();
         _posBuffer.EndWrite<InstanceData>(SHELL_COUNT);
         _instanceBlock.SetBuffer(ShaderValue_InstanceProp, _posBuffer);
         _lastInstanceUpdate = _job.data;
