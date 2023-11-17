@@ -5,6 +5,7 @@ Imported to ShaderGraph.<br />
 Added physics using a second object to simulate the forces applied to the original, and calculating the offset from the original object.<br />
 By default it's using spring joint, but can be swapped with any other method.<br />
 Added indirect Instancing per shell group.<br />
+Using Unity's job system to update all the instances.
 
 https://github.com/ToxPlayers/PhysicsShellRendering/assets/67845762/36016c26-fa56-4c48-9b7e-687c999dc57f  
 
