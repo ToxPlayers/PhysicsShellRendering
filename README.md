@@ -6,6 +6,7 @@ Added physics using a second object to simulate the forces applied to the origin
 By default it's using spring joint, but can be swapped with any other method.<br />
 Added indirect Instancing per shell group.
 
-https://github.com/ToxPlayers/PhysicsShellRendering/assets/67845762/db88f986-dafd-497d-b6f6-e9d85ec22b15
-
+https://github.com/ToxPlayers/PhysicsShellRendering/assets/67845762/36016c26-fa56-4c48-9b7e-687c999dc57f
+https://github.com/ToxPlayers/PhysicsShellRendering/assets/67845762/26cbaade-51e9-4227-9bee-4365de27134e
+https://github.com/ToxPlayers/PhysicsShellRendering/assets/67845762/5a3ba4e8-90ff-4540-a777-27f8a7f1b836
 
